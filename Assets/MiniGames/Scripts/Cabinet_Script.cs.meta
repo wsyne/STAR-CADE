@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9530f26cdb3b82444bab965ef19b7e9c
+timeCreated: 1548714998
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PlayerRef: {fileID: 1806214649702536, guid: 20a2c0c2d3cfa4d45bb641886ba3d11a,
+      type: 2}
+  - EnterGameUI: {fileID: 1669526260559506, guid: 95b56d678fa64254fbbcc1fe9466621f,
+      type: 2}
+  - BallRef: {instanceID: 0}
+  - CameraRef: {instanceID: 0}
+  - TargetPoint: {instanceID: 0}
+  - DS: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
